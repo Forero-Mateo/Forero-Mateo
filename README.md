@@ -3,7 +3,7 @@
 - I'm currently working through a Masters in Applied Statistics with a specialization in Data Science
 - Ultimately my goals are to land a job as a Data Scientist, network, and continue learning in this growing field
 - 📫 How to reach me 
--- Email: Mf14t@my.fsu.edu
+-- Email: mateo@foreromunoz.com
 
 <!---
 Forero-Mateo/Forero-Mateo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
